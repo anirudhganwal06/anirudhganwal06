@@ -1,4 +1,4 @@
-# Wanna see my contribution graph
+# Hello there! Wanna see my contribution graph
 
 <img src="http://ghchart.rshah.org/anirudhganwal06" alt="Anirudh's Github chart" />
 <img src="http://ghchart.rshah.org/anirudhganwal06" alt="Anirudh's Github chart" />
